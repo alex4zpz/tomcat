@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/ant.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/ant-apache-log4j.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/ant-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar/tomcat base jar/org.eclipse.jdt.core_3.10.0.v20140902-0626.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
